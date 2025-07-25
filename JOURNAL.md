@@ -11,7 +11,7 @@ I forgot to journal so here I am on the 25th rejournaling! Today I came up with 
 <img width="347" height="315" alt="image" src="https://github.com/user-attachments/assets/ba98a151-a28b-4d17-b0d5-b40dfaf31b53" />
 
 Credit to some people in the KiCad EDA discord for helping me learn some basic schematic stuff like putting VBUS facing up and GND facing down!!  
-**Time spent today: ~1.5hrs
+**Time spent today: ~1.5hrs**
 ## July 24th, 2025
 Today I learned how to use USB-C ports, and tried to use a MicroSD card reader! that failed so we're scrapping the microsd card... now just 2 usba and 2 usbc :(  
 <img width="828" height="626" alt="image" src="https://github.com/user-attachments/assets/7d278e97-18b5-4dbf-8957-193d8a813999" />
