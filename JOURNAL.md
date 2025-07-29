@@ -4,7 +4,7 @@ author: "jenin"
 description: "A USB hub with 2 USB-A slots and 2 USB-C slots!"
 created_at: "2025-07-23"
 ---
-# TOTAL TIME SPENT (for now): 17 HOURS AND 45 MINUTES (how did it take this long 😭)
+# TOTAL TIME SPENT: 17 HOURS AND 45 MINUTES (how did it take this long 😭)
 
 ## July 23rd, 2025 - Started the project!
 I forgot to journal so here I am on the 25th rejournaling! Today I came up with my idea, and started the CAD! I'm really new to this so I learned how to use USB-A ports in KiCad!   
@@ -62,6 +62,8 @@ Update: I USED THE WRONG CRYSTAL 😭 I had to redo the cad and the PCB wiring a
 <img width="949" height="541" alt="image" src="https://github.com/user-attachments/assets/8f8f18a0-1c73-4fc9-aa77-55d46119e794" />
 <img width="727" height="696" alt="image" src="https://github.com/user-attachments/assets/cd4b639d-4ae6-4308-8c79-4cff7fc35c1b" />
 
-This is the new case with new PCB ^^
-**Time spent today: 1hr 45mins**
+This is the new case with new PCB ^^     
+
+AND WE'RE DONE!!! HAD TO REDO ALL THE FILES IN THE GITHUB AND ALL THAT BUT I'M DONE!
+**Time spent today: 2hrs 45mins**
 
