@@ -64,6 +64,6 @@ For the rest of the items... I am 3d printing the case myself and I have screws 
 
 ## Notes
 I like trains     
-Rudy and Valen are goated for helping me with this
+Rudy and Valen are goated for helping me with this      
 Please accept me 😭 I am literally doing all of this out of pocket except for US$5 😭
    
