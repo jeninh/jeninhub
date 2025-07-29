@@ -4,7 +4,7 @@ author: "jenin"
 description: "A USB hub with 2 USB-A slots and 2 USB-C slots!"
 created_at: "2025-07-23"
 ---
-# TOTAL TIME SPENT (for now): 16 HOURS AND 45 MINUTES (how did it take this long 😭)
+# TOTAL TIME SPENT (for now): 17 HOURS AND 45 MINUTES (how did it take this long 😭)
 
 ## July 23rd, 2025 - Started the project!
 I forgot to journal so here I am on the 25th rejournaling! Today I came up with my idea, and started the CAD! I'm really new to this so I learned how to use USB-A ports in KiCad!   
@@ -56,6 +56,12 @@ here's 2 photos of the cad, one transparent one not
 <img width="1041" height="571" alt="image" src="https://github.com/user-attachments/assets/5eed984a-626e-46eb-a91a-6f8a3ed4eb85" />
 <img width="944" height="513" alt="image" src="https://github.com/user-attachments/assets/b7a4199a-b400-4a34-8b12-78b9ef0020dd" />
 
-I'm now going to ship this and add the time it takes to do that to my journal.
-**Time spent today: 45mins**
+I'm now going to ship this and add the time it takes to do that to my journal.    
+
+Update: I USED THE WRONG CRYSTAL 😭 I had to redo the cad and the PCB wiring and footprint and adjust my BOM.
+<img width="949" height="541" alt="image" src="https://github.com/user-attachments/assets/8f8f18a0-1c73-4fc9-aa77-55d46119e794" />
+<img width="727" height="696" alt="image" src="https://github.com/user-attachments/assets/cd4b639d-4ae6-4308-8c79-4cff7fc35c1b" />
+
+This is the new case with new PCB ^^
+**Time spent today: 1hr 45mins**
 
