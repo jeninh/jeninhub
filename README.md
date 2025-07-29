@@ -51,7 +51,7 @@ Difficulties I had with the case:
 |----------------------|-----|-------------|-------------------------------|
 | PCBA                 | 2   | NA          | Out of Pocket                 |
 | PCB                  | 5   | NA          | Out of Pocket                 |
-| USB-C to USB-C cable | 1   | $4.90*      | [here](https://a.co/d/1pY8bkt)|
+| USB-C to USB-C cable | 1   | NA          | Out of Pocket                 |
 | M2 x 6mm Screws      | 4   | NA          | Self Sourced                  |
 | M2 Nuts              | 4   | NA          | Self Sourced                  |
 | Top Case             | 1   | NA          | Self Printed                  |
