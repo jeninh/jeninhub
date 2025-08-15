@@ -1,5 +1,7 @@
 # jeninhub
-A USB hub with 2 USB-A and 2 USB-C slots. Plugs into your laptop's USB-C slot.    
+A USB hub with 2 USB-A and 2 USB-C slots. Plugs into your laptop's USB-C slot.  
+<img width="854" height="483" alt="image" src="https://github.com/user-attachments/assets/7fec5564-ae6b-450f-94b7-937661a976ea" />
+
 <img width="958" height="462" alt="image" src="https://github.com/user-attachments/assets/1c681c02-a375-4b2c-9266-55226427ef70" />    
 Made by @jeninh   
 
