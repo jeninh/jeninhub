@@ -67,3 +67,8 @@ This is the new case with new PCB ^^
 AND WE'RE DONE!!! HAD TO REDO ALL THE FILES IN THE GITHUB AND ALL THAT BUT I'M DONE!
 **Time spent today: 2hrs 45mins**
 
+## Assembly
+Had some PCB issues, the crystal was 8mhz but i cut the trace and made it ran on the IC so we good.
+**Time spent: 2 hours**
+<img width="854" height="483" alt="image" src="https://github.com/user-attachments/assets/7fec5564-ae6b-450f-94b7-937661a976ea" />
+
